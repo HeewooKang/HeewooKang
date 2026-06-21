@@ -15,7 +15,7 @@ Mechanical Engineering & Computer Engineering Student at Dong-A University
 * UAV Systems
 * Autonomous Navigation
 * Control Systems
-* Robot Simulation
+* Robotics Simulation
 * ROS2
 * Gazebo
 * PX4
@@ -31,10 +31,11 @@ Mechanical Engineering & Computer Engineering Student at Dong-A University
 ## Education
 
 **Dong-A University**
+
 B.S. Student in Mechanical Engineering & Computer Engineering
 
 ## Contact
 
-📧 Email: rkdgmldn15@naver.com
+📧 Email: rkdgmldn15@gmail.com
 📞 Phone: +82-10-4913-0837
 💻 GitHub: HeewooKang
